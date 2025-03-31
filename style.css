@@ -3,5 +3,7 @@ body {
 h1 {
   font-family:American typewrighter, serif;
 }
-<img src="https://static1.srcdn.com/wordpress/wp-content/uploads/2022/02/Final-Fantasy-VI-Intro-Cover.jpg"  
-     style="width: 300px !important; height: 200px !important;">
+.resized-img {
+  width: 300px;
+  height: 200px;
+}
