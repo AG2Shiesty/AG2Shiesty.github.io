@@ -8,6 +8,16 @@ h1 {
   width: 300px;
   height: 200px;
 }
+<head>
+  <style>
+    h1 {
+      color: blue;
+    }
+  </style>
+</head>
+<body>
+  <h1>Final Fantasy VI</h1>
+</body>
 <style>
     table {
         width: 60%;
