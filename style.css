@@ -3,17 +3,13 @@ body {
   background-color:Peach Fuzz;}
 h1 {
   font-family:American typewrighter, serif;
+   color: blue;
 }
 .resized-img {
   width: 300px;
   height: 200px;
 }
-<head>
-  <style>
-    h1 {
-      color: blue;
-    }
-  </style>
+
 </head>
 <body>
   <h1>Final Fantasy VI</h1>
